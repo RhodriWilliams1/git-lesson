@@ -7,3 +7,7 @@ I went on holiday to the [Pics de Europe](https://duckduckgo.com/?origin=funnel_
 Here is a picture I took whilst scrabling up a mountain
 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftodobienmama.com%2Fwp-content%2Fuploads%2F2020%2F09%2FDSCF8932-1024x683.jpg&f=1&nofb=1&ipt=45ab84dc1d3ea25662425113668bf71728c6f3d886bdb108251e65e9605c5c4f)
+
+Here is a second picture
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.bookatrekking.com%2Fdata%2Fimages%2F2023%2F11%2Fnaranjo-de-bulnes.webp&f=1&nofb=1&ipt=f612d29478ee51bfba406b0ee429ecb77e945051a794fd9207e66d34c4fe26b2)
